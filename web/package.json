@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "private": true,
-  "description": "RAGFlow Web Frontend migrated to Vite",
+  "description": "VietRAG - AI Chatbot cho Doanh Nghiệp Việt Nam",
   "author": "bill",
   "type": "module",
   "scripts": {
